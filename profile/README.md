@@ -19,7 +19,7 @@ NIT Raipur is one of the premier engineering institutions in India, dedicated to
 
 - Our repository hosts various projects, including but not limited to:
 
-    - Web Applications: [NIT Raipur Classlocator](https://nitrr-class-locator.netlify.app/)
+    - Web Applications: [NIT Raipur Classlocator](https://nitrr-class-locator.netlify.app/), [CampusOS](https://github.com/NITRR-Official/CampusOS)
 
     - Mobile Applications: [Classlocator Android App](https://play.google.com/store/apps/details?id=com.classlocator.nitrr)
 
@@ -49,6 +49,9 @@ NIT Raipur is one of the premier engineering institutions in India, dedicated to
 - Push the changes to your fork.
 
 - Submit a Pull Request (PR) for review.
+
+## Help & Resources
+Get help and resource material here - [Help & Resources](https://github.com/NITRR-Official/Help-and-Resources)
 
 ## ⭐ Acknowledgments
 

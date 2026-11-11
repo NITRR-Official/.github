@@ -1,4 +1,4 @@
-# National Institute of Technology, Raipur — Open Source Organization (NITRROSS)
+# National Institute of Technology, Raipur — Open Source Organization (NITRROSO)
 
 Welcome to the official GitHub organization of National Institute of Technology, Raipur (NITRR).
 
